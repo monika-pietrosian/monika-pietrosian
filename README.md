@@ -5,7 +5,7 @@
 - LinkedIn: https://www.linkedin.com/in/monika-pietrosian-19255a89
 - email: monika@pietrosian.pl
 
-- Oh and I need this - ∈∈∈∈, &#8364; &#x20AC; &euro; &#2208;
+- Oh and I need this - ∈∈∈∈, &#8364; &#x20AC; &euro; &#2208; &#x20AC &#8712; &#x2208; &isinv;
 
 
 <!---
