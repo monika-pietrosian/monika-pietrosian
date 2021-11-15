@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @monika-pietrosian, a Python & Data Science enthusiast, with an several years experience in research the built environment (I have been the "traditional" architect). Currently learning about ML and DL. Willing to co-create a web article with GPT-J and make my very own conjoint :).
+- 👋 Hi, I’m @monika-pietrosian, a Python enthusiast, with an several years experience in research the built environment (I have been the "traditional" architect).
 
 - Feel free to ask me about some tips about your very special home office environment! Reach me via:
 
